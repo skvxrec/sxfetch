@@ -9,6 +9,8 @@ else
   os_name=$(uname -s)
 fi
 
+os_id="${SXFETCH_LOGO:-$os_id}"
+
 case "$os_id" in
 sxos)
   logo="           ____  ____
