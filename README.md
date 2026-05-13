@@ -1,2 +1,2 @@
 # sxfetch
-system fetch for sxOS
+minimal fetch by skvxrec
